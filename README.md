@@ -40,6 +40,7 @@ func main() {
 - [Random Greeting](https://go.dev/doc/tutorial/random-greeting)
 - [Return Greetings for Multiple People](https://go.dev/doc/tutorial/greetings-multiple-people)
 - [Add a test](https://go.dev/doc/tutorial/add-a-test)
+- [Compile and install application](https://go.dev/doc/tutorial/compile-install)
 
 1. `mkdir greetings && cd greetings`
 2. `go mod init example.com/greetings`
