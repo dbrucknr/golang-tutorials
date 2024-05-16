@@ -8,3 +8,6 @@
 4. Close terminal and start a new one
 5. `go version` in terminal
     - Results in: `go version go1.22.3 linux/amd64`
+
+## Tutorials
+ - [Tutorial List](https://go.dev/doc/tutorial/)
