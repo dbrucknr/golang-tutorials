@@ -34,7 +34,11 @@ func main() {
 8. `go mod tidy`
 
 #### Creating a Module
-- [Tutorial](https://go.dev/doc/tutorial/create-module)
+- [Create a Module](https://go.dev/doc/tutorial/create-module)
+- [Call Module Code](https://go.dev/doc/tutorial/call-module-code)
+- [Return and handle an error](https://go.dev/doc/tutorial/handle-errors)
+- [Random Greeting](https://go.dev/doc/tutorial/random-greeting)
+- [Return Greetings for Multiple People](https://go.dev/doc/tutorial/greetings-multiple-people)
 
 1. `mkdir greetings && cd greetings`
 2. `go mod init example.com/greetings`
